@@ -1,0 +1,5 @@
+statechart:
+  name: Keyboard
+  description: Description of the statechart
+  root state:
+    name: s1
